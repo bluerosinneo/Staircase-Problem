@@ -9,6 +9,7 @@ public class StepRecursive
 {
   public static void main(String[] args)
   {
+    // Note that n = 40 will take very long for a computer to run (factorial complexity!)
     int[] stepList = {1,2,3};
     int n = 40;
     System.out.println(takeSteps(n,stepList));
