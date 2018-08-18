@@ -7,5 +7,4 @@ This can be solved quite simply and elegantly using recursion.  However, this so
 
 A much faster way to solve this is by using some maths, multinomial combinations should do the trick.
 
-Recursive solution post
-https://cramerexplainsmath.com/2018/06/18/number-of-ways-to-climb-a-flight-of-stairs-when-taking-one-two-three-steps-at-a-time-java-recursive/
+
