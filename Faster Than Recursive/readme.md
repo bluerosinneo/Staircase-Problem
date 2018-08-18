@@ -1,4 +1,4 @@
-#Staircase Problem Faster Than Recursive
+# Staircase Problem Faster Than Recursive
 
 So far I have done an implementation in Java and Python.
 
