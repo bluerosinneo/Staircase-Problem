@@ -1,4 +1,4 @@
-# Staircase-Problem
+# Staircase-Problem Recursive Solution
 How many ways can one climb a set of stairs of any length by taking step options from any number of options?
 
 I came across this problem on YouTube and found it very interesting.
